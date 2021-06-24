@@ -83,7 +83,9 @@ img{
     img{
         border-bottom-right-radius:unset;
         border-top-left-radius:10px;
-
+        /* background: url("images/favicon-32x32.png") no-repeat; */
+        /* mask-image: url("images/favicon-32x32.png"); */
+        /* image-orientation: 90deg; */
     }
     .achieve{
         flex-direction: column;
